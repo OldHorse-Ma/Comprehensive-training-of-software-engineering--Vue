@@ -1,24 +1,28 @@
-# vue-demo-02-2
+# 软件工程综合实训-Vue
 
-## Project setup
-```
-npm install
-```
+#### 介绍
+软工实训前端项目
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+#### 软件架构
+软件架构说明
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Lints and fixes files
-```
-npm run lint
-```
+#### 安装教程
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+1.  xxxx
+2.  xxxx
+3.  xxxx
+
+#### 使用说明
+
+1.  xxxx
+2.  xxxx
+3.  xxxx
+
+#### 参与贡献
+
+1.  Fork 本仓库
+2.  新建 Feat_xxx 分支
+3.  提交代码
+4.  新建 Pull Request
+
